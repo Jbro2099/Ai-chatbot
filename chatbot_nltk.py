@@ -52,3 +52,19 @@ pairs = [
         ["Health is very important, but I am a computer, so I don't need to worry about my health ",]
     ],
     [
+r"(.*)(sports|game|sport)(.*)",
+        ["I'm a very big fan of Cricket",]
+    ],
+    [
+        r"who (.*) (Cricketer|Batsman)?",
+        ["Virat Kohli"]
+    ],
+    [
+        r"quit",
+        ["Bye for now. See you soon :) ","It was nice talking to you. See you soon :)"]
+    ],
+    [
+        r"(.*)",
+        ['That is nice to hear']
+    ],
+]
