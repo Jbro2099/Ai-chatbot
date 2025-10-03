@@ -19,7 +19,7 @@ pairs = [
         ["I'm doing very well", "i am great !"]
     ],
     [
- r"sorry (.*)",
+        r"sorry (.*)",
         ["Its alright","Its OK, never mind that",]
     ],
     [
@@ -33,7 +33,7 @@ pairs = [
     [
         r"what (.*) want ?",
         ["Make me an offer I can't refuse",]
-   
+        
     ],
     [
         r"(.*)created(.*)",
@@ -52,7 +52,7 @@ pairs = [
         ["Health is very important, but I am a computer, so I don't need to worry about my health ",]
     ],
     [
-r"(.*)(sports|game|sport)(.*)",
+        r"(.*)(sports|game|sport)(.*)",
         ["I'm a very big fan of Cricket",]
     ],
     [
@@ -68,6 +68,7 @@ r"(.*)(sports|game|sport)(.*)",
         ['That is nice to hear']
     ],
 ]
+
 print("Hi, I'm thecleverprogrammer and I like to chat")
 print("Please type lowercase English language to start a conversation. Type quit to leave ")
 
