@@ -33,3 +33,22 @@ pairs = [
     [
         r"what (.*) want ?",
         ["Make me an offer I can't refuse",]
+   
+    ],
+    [
+        r"(.*)created(.*)",
+        ["Aman Kharwal created me using Python's NLTK library ","top secret ;)",]
+    ],
+    [
+        r"(.*) (location|city) ?",
+        ['New Delhi, India',]
+    ],
+    [
+        r"(.*)raining in (.*)",
+        ["No rain in the past 4 days here in %2","In %2 there is a 50% chance of rain",]
+    ],
+    [
+        r"how (.*) health (.*)",
+        ["Health is very important, but I am a computer, so I don't need to worry about my health ",]
+    ],
+    [
