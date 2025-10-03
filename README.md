@@ -7,8 +7,13 @@ This demonstrates the fundamentals of Natural Language Processing (NLP), includi
 
 
 Features
+
 -Handles greetings, questions, and common user statements.
+
 -Processes user input using regular expressions and reflections.
+
 -Provides context-aware responses based on user queries.
+
 -Supports multiple response variations for more natural conversation.
+
 -Easy to extend with additional patterns and responses.
