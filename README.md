@@ -1,5 +1,6 @@
 Rule-Based Chatbot with Python and NLTK
-Overview
+Overview:
+
 This is a rule-based chatbot built in Python with NLTK. It responds to English user inputs using predefined patterns and reflections, demonstrating basic Natural Language Processing (NLP) concepts like pattern matching and conversational flow.
 
 Features
