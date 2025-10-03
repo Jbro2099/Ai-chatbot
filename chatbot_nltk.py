@@ -19,3 +19,17 @@ pairs = [
         ["I'm doing very well", "i am great !"]
     ],
     [
+ r"sorry (.*)",
+        ["Its alright","Its OK, never mind that",]
+    ],
+    [
+        r"i'm (.*) (good|well|okay|ok)",
+        ["Nice to hear that","Alright, great !",]
+    ],
+    [
+        r"(hi|hey|hello|hola|holla)(.*)",
+        ["Hello", "Hey there",]
+    ],
+    [
+        r"what (.*) want ?",
+        ["Make me an offer I can't refuse",]
