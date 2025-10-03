@@ -68,3 +68,6 @@ r"(.*)(sports|game|sport)(.*)",
         ['That is nice to hear']
     ],
 ]
+print("Hi, I'm thecleverprogrammer and I like to chat")
+print("Please type lowercase English language to start a conversation. Type quit to leave ")
+
