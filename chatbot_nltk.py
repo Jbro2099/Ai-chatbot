@@ -71,3 +71,5 @@ r"(.*)(sports|game|sport)(.*)",
 print("Hi, I'm thecleverprogrammer and I like to chat")
 print("Please type lowercase English language to start a conversation. Type quit to leave ")
 
+chat = Chat(pairs, reflections)
+chat.converse()
