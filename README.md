@@ -5,12 +5,12 @@ Built a rule-based chatbot in Python using NLTK that responds to English user in
 
 Features
 
--Handles greetings, questions, and common user statements.
+-Handles greetings, questions, and common user statements using rule-based logic
 
--Processes user input using regular expressions and reflections.
+-Processes user input using regular expressions and NLTK’s reflection system
 
--Provides context-aware responses based on user queries.
+-Generates appropriate responses based on matched input patterns
 
--Supports multiple response variations for more natural conversation.
+-Supports multiple response variations for more natural interaction
 
--Easy to extend with additional patterns and responses.
+-Easily extensible with additional conversational rules and responses
